@@ -10,7 +10,6 @@
   - [Others](#Others)
 
 
-
 ### Dataset List
 - [Argoverse](https://www.argoverse.org/data.html#overview-link)
 - CVPR 2019
@@ -171,3 +170,9 @@
   - Leiden University
   - CVPR 2021
   - Notes: The work inspires me.
+
+### eXplainable Artificial Intelligence
+
+- [Rationalizing neural predictions](https://people.csail.mit.edu/taolei/papers/emnlp16_rationale.pdf)
+  - MIT
+  - EMNLP 2016
